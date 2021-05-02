@@ -1,0 +1,17 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    max-width: min(984px, calc(100% - 48*2px));
+}
+@media screen and (max-width: 1023px) {
+    .intro {
+        max-width: calc(100% - 24*2px);
+    }
+}
+@media screen and (max-width: 767px) {
+    .intro {
+        max-width: calc(100% - 16*2px);
+    }
+}

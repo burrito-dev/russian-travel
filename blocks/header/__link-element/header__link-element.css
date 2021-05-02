@@ -1,0 +1,9 @@
+.header__link-element {
+    margin-bottom: 6px;
+}
+
+@media screen and (max-width: 767px) {
+    .header__link-element {
+        margin-bottom: 8px;
+    }
+}

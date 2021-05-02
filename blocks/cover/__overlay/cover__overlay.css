@@ -1,0 +1,7 @@
+.cover__overlay {
+    background: #2A2C2F;
+    opacity: 0.8;
+}
+.cover__link:hover .cover__overlay {
+    opacity: 0.3;
+}
