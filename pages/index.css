@@ -11,11 +11,11 @@
 @import url(../blocks/page/__footer/page__footer.css);
 
 @import url(../blocks/link/link.css);
-@import url(../blocks/link/_selected/link_selected.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link-element/header__link-element.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_selected/header__lang-link_selected.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__logo/header__logo.css);
 
@@ -32,7 +32,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-element/intro__list-element.css);
-@import url(../blocks/intro/__list-element/_normal/intro__list-element_normal.css);
+@import url(../blocks/intro/__span-accent/intro__span-accent.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
